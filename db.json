@@ -1,5 +1,5 @@
 {
-   "data": [
+  "data": [
       {
      "id": 12345,
           "order": "#103",
@@ -11,5 +11,8 @@
           "currency": "BRL",
           "status": "Aguardando Envio"
       }
-    ]
+    ],
+  "profile": {
+    "name": "typicode"
+  }
 }
